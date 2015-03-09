@@ -1,0 +1,12 @@
+{
+	"name": "cozyt/html5",
+	"description": "",
+	"homepage": "http://bitbucket.org/cozyt/html5",
+	"keywords": ["php", "blade", "html"],
+	"authors": [
+		{
+			"name": "A Harvey",
+			"homepage": "https://bitbucket.org/cozyt"
+		}
+	]
+}
